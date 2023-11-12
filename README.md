@@ -1,6 +1,6 @@
 This app is based on react.learn/dev tutorial on tic-tac-toe.
 
-----
+# ----
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
